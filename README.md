@@ -51,3 +51,6 @@ vercel --prod # deploy production
 - Ubah batas jumlah domain per permintaan: `MAX_DOMAINS` di `app/api/check/route.js`.
 - Ubah jumlah domain diproses paralel: `CONCURRENCY` di file yang sama.
 - Warna, tipografi, dan tema visual: `tailwind.config.js` dan `app/globals.css`.
+
+
+Support bye : https://kulinerfourd.xyz/
